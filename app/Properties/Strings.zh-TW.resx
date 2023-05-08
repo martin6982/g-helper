@@ -330,6 +330,9 @@
   <data name="OptimizedGPUTooltip" xml:space="preserve">
     <value>使用電池切換到節能模式，插入電源時切換到標準模式</value>
   </data>
+  <data name="OptimizedUSBC" xml:space="preserve">
+    <value>自動模式下，使用USB-C充電器時關閉獨顯</value>
+  </data>
   <data name="Other" xml:space="preserve">
     <value>其他</value>
   </data>
@@ -383,6 +386,12 @@
   </data>
   <data name="ToggleAura" xml:space="preserve">
     <value>切換Aura</value>
+  </data>
+  <data name="ToggleMiniled" xml:space="preserve">
+    <value>切換MiniLED(若有支援)</value>
+  </data>>
+  <data name="ToggleScreen" xml:space="preserve">
+    <value>切換螢幕</value>
   </data>
   <data name="Turbo" xml:space="preserve">
     <value>極速模式</value>
